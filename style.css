@@ -1,0 +1,70 @@
+body{
+    background: url('1.jpg')no-repeat ;
+    background-size: cover;
+    display: flex;
+    height: 97vh;
+    width: 99vw;
+    align-items: center;
+}
+.main{
+    height: 300px;
+    width: 550px;
+    background: transparent;
+    border-radius: 20px;
+    border: 1px solid rgb(107, 77, 77);
+    margin-top: 20px;
+
+
+    
+}
+h1{
+    color: white;
+    display: block;
+    width:330px;
+    margin: 20px auto;
+    text-shadow: -3px 3px 4px #c28a11;
+
+}
+.container{
+display: block;
+margin: 35px auto;
+width: 262px;
+}
+#sub{
+    margin:25px 90px;
+    font-size: 17px;
+    border-radius: 8px;
+    font-weight: bolder;
+   
+    background-color: red;
+    color: white;
+    height: 35px;
+    width: 105px;
+}
+#sub:hover{
+    background-color:orange
+
+}
+form input{
+    height:22px;
+    width: 120px;
+    border-radius: 5px;
+    
+}
+form select{
+    font-size: 18px;
+    margin: 30px 10px;
+    height: 26px;
+}
+label{
+    color: white;
+    font-size: 22px;
+    display: block;
+    margin: -15px auto;
+    width: 290px;
+    font-weight: bolder;
+
+}
+
+
+
